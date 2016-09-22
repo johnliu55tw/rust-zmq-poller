@@ -1,5 +1,5 @@
 [package]
-name = "zmq_poller"
+name = "rust-zmq-poller"
 version = "0.1.0"
 authors = ["JohnLiu <johnliu55tw@gmail.com>"]
 
